@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## How To Use
-**Note:** The name to use while installing is `cricket-tannmay` but while using it in python we have to import `cricket` 
+**Note:** The name to use while installing is `cricket-tannmay-headless` but while using it in python we have to import `cricket` 
 ### Batting
 #### Specific Shot
 ##### Option 1
